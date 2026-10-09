@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @424asuto814fs-lgtm
+/src/backend/database.py      @424asuto814fs-lgtm
+/src/backend/routers/auth.py  @424asuto814fs-lgtm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @424asuto814fs-lgtm
